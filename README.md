@@ -1,7 +1,7 @@
 <h2> Hello, this is Mili <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img  align='right'  width='500' src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?compress=1&resize=1000x750">
 
-<h4>I am Mili Jolly, a passionate frontend development and Machine Learning Enthusiast, extremely motivated to learn new skills and grow professionally.</h4>
+<h4>I am Mili Jolly, a passionate Python and Machine Learning Enthusiast, extremely motivated to learn new skills and grow professionally.</h4>
 
 - 🔭 I’m currently **exploring new technologies.**
 
